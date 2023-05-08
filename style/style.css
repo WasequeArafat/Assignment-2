@@ -1,0 +1,158 @@
+.header {
+  background-color: #fff4e7;
+  margin-top: 20px;
+}
+
+.header-title {
+  margin-left: 39px;
+}
+.header-section {
+  display: flex;
+  justify-content: left;
+}
+
+.pages {
+  margin-top: 33px;
+  margin-left: 800px;
+}
+
+.link {
+  margin-left: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+/* Brand section  */
+
+.brand {
+  align-items: center;
+  text-align: center;
+}
+
+/*  btnn */
+.btn-explore {
+  margin-left: 659px;
+  background-color: #ff900e;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  margin-bottom: 30px;
+}
+
+/* ? heading  */
+#heading-01 {
+  font-size: 64px;
+  font-weight: 700;
+}
+
+#p-01 {
+  font-size: 16px;
+}
+
+/* ! img section  */
+/* .img-section {
+  background-image: url(../images/banner.png);
+} */
+.banner-section {
+  width: 1200px;
+  height: 700px;
+  padding-left: 25px;
+  margin-bottom: 30px;
+}
+
+/*  team section  */
+
+.team-div {
+  display: grid;
+}
+
+.img {
+  height: 302px;
+  width: 300px;
+}
+.team-section {
+  margin-bottom: 30px;
+}
+
+.team-h1 {
+  font-size: 53px;
+  font-weight: 500px;
+}
+
+.prb {
+  margin-left: 680px;
+  padding-right: 20px;
+  /* padding-top: -900px; */
+  margin-top: -500px;
+}
+
+.btn-explore-01 {
+  /* margin-left: 580px; */
+  background-color: #ff900e;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  /* margin-bottom: 30px; */
+}
+
+/*  fecture  */
+.frature-section {
+  margin-top: 350px;
+  margin-left: 35px;
+  margin-bottom: 40pxx;
+}
+.heading-features {
+  border-left: 7px solid #ff900e;
+  font-size: 45px;
+  padding: 10px;
+}
+
+.feature-p {
+  font-size: 14px;
+  font-weight: 400px;
+}
+
+.architect {
+  display: flex;
+}
+
+.architect-img {
+  margin-top: -300px;
+  padding-right: -30px;
+  margin-left: 270px;
+}
+
+#btn {
+  background-color: #ff900e;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  margin-left: 200px;
+  margin-top: -90px;
+}
+.card {
+  border: 4px solid #ff900e;
+  margin-left: 169px;
+}
+
+.card-img {
+  padding-left: 30%;
+  height: 45.33px;
+  width: 45.34px;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+.sponsors-section {
+  margin-bottom: 50px;
+}
+.sponsors {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.footer {
+  text-align: center;
+  margin: 50px;
+  padding-top: 30px;
+}
